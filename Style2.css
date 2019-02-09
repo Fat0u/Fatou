@@ -1,0 +1,29 @@
+h1 {
+	text-align: left;
+	color: black;
+	text-align: center;
+}  
+
+h4 {
+text-align: left;
+	color: black;
+
+}
+
+body {
+	background-image: url(NYCS.jpg);
+}
+p {
+color: red;
+}
+
+h2{
+color: red;	
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
