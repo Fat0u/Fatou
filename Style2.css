@@ -59,7 +59,7 @@ li a {
 
 li a:hover {
   background-color: white;
-  opacity: 0.6;
+  opacity: 0.8;
   font: italic bold 12px/30px Georgia, serif;
 }
 </style>
