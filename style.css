@@ -2,6 +2,7 @@ h1 {
 	text-align: left;
 	color: black;
 	text-align: center;
+  font-size: 50px
 }  
 
 h4 {
@@ -11,7 +12,7 @@ text-align: left;
 }
 
 body {
-	background-image: url(pink.jpg);
+	background-image: url(pinkish.png);
 	border-image: url()
 }
 p {
@@ -51,7 +52,7 @@ li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 26px;
   text-decoration: none;
   font: italic bold 12px/30px Georgia, serif;
 
@@ -62,17 +63,10 @@ li a:hover {
   opacity: 0.8;
   font: italic bold 12px/30px Georgia, serif;
 }
-</style>
-</head>
-<body>
+ img{
 
-<ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#aboutme">About Me</a></li>
-  <li><a href="#sports">Sports</a></li>
-  <li><a href="#school">School</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#Fashion">Fashion</a></li>
-</ul>
+margin: 25px;
+
+ }
 
  
