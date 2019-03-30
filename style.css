@@ -59,8 +59,9 @@ li a {
 }
 
 li a:hover {
-  background-color: skyblue;
-  opacity: 0.8;
+  color: pink;
+  background-color: black;
+
   font: italic bold 12px/30px Georgia, serif;
 }
  img{
