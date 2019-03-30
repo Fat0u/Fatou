@@ -68,5 +68,12 @@ li a:hover {
 margin: 25px;
 
  }
+#nav{
+
+position: fixed;
+top: 0;
+padding: 14px 16px;
+
+}
 
  
