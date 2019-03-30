@@ -1,16 +1,78 @@
 h1 {
-	text-align: center;
-	color: red;
+	text-align: left;
+	color: black;
 	text-align: center;
 }  
 
+h4 {
+text-align: left;
+	color: black;
+
+}
+
 body {
-	background-color: black;
+	background-image: url(pink.jpg);
+	border-image: url()
 }
 p {
-color: red;
+color: black;
+font: italic bold 12px/30px Georgia, serif;
 }
 
 h2{
-color: red;	
+color: black;	
+font: italic bold 12px/30px Georgia, serif;
 }
+
+div {
+	color: black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font: italic bold 12px/30px Georgia, serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:  ;
+  font: italic bold 12px/30px Georgia, serif;
+}
+
+li {
+  float: left;
+  font: italic bold 12px/30px Georgia, serif;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font: italic bold 12px/30px Georgia, serif;
+
+}
+
+li a:hover {
+  background-color: skyblue;
+  opacity: 0.8;
+  font: italic bold 12px/30px Georgia, serif;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#aboutme">About Me</a></li>
+  <li><a href="#sports">Sports</a></li>
+  <li><a href="#school">School</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#Fashion">Fashion</a></li>
+</ul>
+
+ 
